@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Downloads/Masterclass/Producte_comprat.cc">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Downloads/Masterclass/Producte_comprat.hh">
+   </FileRef>
+</Workspace>
